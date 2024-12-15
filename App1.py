@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 from ultralytics import YOLO
 
-model = YOLO('best (6).pt')
+model = YOLO('best (7).pt')
 
 plant_info = {
     "Schefflera arboricola": {
