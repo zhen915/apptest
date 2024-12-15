@@ -1,4 +1,3 @@
-conda install python=3.12
 import streamlit as st
 import torch
 import numpy as np
